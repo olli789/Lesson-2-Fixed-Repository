@@ -7,6 +7,13 @@ text-align: center;
 background-color: purple; 
 }
 
+.cat-section {
+    background-color: rgb(158, 12, 158
+    )
+
+
+}
+
 body {
     background-image: url(/Images/bird.jpg);
     background-repeat: no-repeat;
